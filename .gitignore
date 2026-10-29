@@ -1,0 +1,14 @@
+# 构建产物
+build/
+
+# 编译中间文件（以防有人没用 build 目录）
+*.o
+*.d
+*.exe
+
+# 程序运行时生成的数据
+contacts.txt
+
+# 编辑器和系统文件
+.vscode/
+.DS_Store
