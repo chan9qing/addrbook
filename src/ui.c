@@ -36,3 +36,5 @@ void ui_read_line(const char *prompt, char *buf, int size) {
     }
 }
 //这是神秘的注释
+//hello
+//hbq
