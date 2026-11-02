@@ -35,5 +35,5 @@ make clean
 | `util.c/h` | 一个单纯的显示功能 |
 
 - 增加联系人信息修改
-- 姓名不能按排序列出的限制
+-  最多 100 个联系人（上限见 `include/contact.h` 的 `MAX_CONTACTS`）
 - 不能重名
