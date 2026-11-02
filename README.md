@@ -38,3 +38,4 @@ make clean
 -  最多 100 个联系人（上限见 `include/contact.h` 的 `MAX_CONTACTS`）
 - 不能重名
 - 这是说明3
+- 123456
